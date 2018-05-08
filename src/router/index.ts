@@ -1,12 +1,9 @@
 import Vue from 'vue'
-import Router, {RouteConfig} from 'vue-router'
-import Hello from '../components/Hello.vue'
-import Recent from '../components/Recent.vue'
-import Favorites from '../components/Favorites.vue'
-import Nearby from '../components/Nearby.vue'
+import Router from 'vue-router'
 
 Vue.use(Router);
 
+/*
 export default new Router({
   routes: [
     { path: '/', name: 'Hello', component: Hello } as RouteConfig,
@@ -15,3 +12,4 @@ export default new Router({
     { path: '/nearby', name: 'Nearby', component: Nearby } as RouteConfig,
   ]
 });
+*/

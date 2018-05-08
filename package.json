@@ -14,7 +14,12 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
     "material-design-icons": "^3.0.1",
+    "nem-library": "^1.0.2",
+    "net": "^1.0.2",
+    "rxjs": "^6.1.0",
+    "tls": "^0.0.1",
     "ts-loader": "^3.5.0",
     "typescript": "^2.8.3",
     "vue": "^2.5.2",
