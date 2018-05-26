@@ -16,7 +16,6 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "material-design-icons": "^3.0.1",
-    "nem-library": "^1.0.2",
     "nem-sdk": "^1.6.4",
     "net": "^1.0.2",
     "rxjs": "^6.1.0",
@@ -25,6 +24,7 @@
     "typescript": "^2.8.3",
     "vue": "^2.5.2",
     "vue-property-decorator": "^6.0.0",
+    "vue-qrcode-reader": "^0.7.3",
     "vue-router": "^3.0.1",
     "vuetify": "^1.0.17"
   },

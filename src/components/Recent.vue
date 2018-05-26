@@ -1,5 +1,5 @@
 <template>
-<p>{{ name }}</p>
+  <qrcode-reader @decode="onDecode" @locate="onLocate"></qrcode-reader>
 </template>
 
 <script>
@@ -9,6 +9,14 @@
     data () {
       return {
         name: 'Recent'
+      }
+    },
+    methods : {
+      onDecode () {
+
+      },
+      onLocate () {
+
       }
     }
   }
