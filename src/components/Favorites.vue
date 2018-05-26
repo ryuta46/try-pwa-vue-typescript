@@ -5,7 +5,7 @@
 </template>
 
 <script>
-  export default Vue.extend({
+  export default {
     name: 'favorites',
 
     data () {
@@ -14,7 +14,7 @@
       }
     },
 
-  })
+  }
 </script>
 
 <style scoped>
