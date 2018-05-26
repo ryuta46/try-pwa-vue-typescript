@@ -1,5 +1,5 @@
 <template>
-<p>Nearby</p>
+  <input type="file" accept="image/*" capture="camera" />
 </template>
 
 <script>
